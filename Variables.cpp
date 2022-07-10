@@ -4,8 +4,12 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello Eyal!\n";
-    int x, x1=10, x2=20;
+    cout<<"Hello Eyal!\n";               //output - print Hello Eyal!
+    int x, x1, x2;
+    cout<<"please enter number 1:\n";
+    cin >> x1;                           //input to x1 
+    cout<<"please enter number 2:\n";
+    cin >> x2;
     double y=5.5;
     const float PI = 3.14;
     char a='t';
