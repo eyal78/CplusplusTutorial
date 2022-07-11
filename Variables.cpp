@@ -11,6 +11,7 @@ int main()
     cout<<"please enter number 2:\n";
     cin >> x2;
     double y=5.5;
+    double z=ye2;                        //z=y^2  e==^
     const float PI = 3.14;
     char a='t';
     string name="Eyal";
