@@ -19,5 +19,5 @@ int main()
     x=x1+x2;
     cout<< "x="<<x <<" y="<<y*PI<<"\n";
     cout<< "a="<<a <<" name="<<name<<"\n";
-    cout<< "f="<<f;
+    cout<< "f="<<f;                      // print 0 , if this true so is print 1.
 }
