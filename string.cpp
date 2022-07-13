@@ -15,6 +15,6 @@ int main()
   cout << "\n";
   cout << a[1];                           // print y
   cout << "\n";
-  c[0]="H";
+  c[0]='H';
   cout << c;
 }
