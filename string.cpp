@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main () 
+int main()
 {
   string a = "My name is Eyal, ";
   string b = "I live in beer sheva.";
@@ -10,5 +10,11 @@ int main ()
   cout << txt.length();                    //.length() == .size()
   cout<<"\n";
   cout << txt.size();
+  cout <<"\n";
+  cout << c;
+  cout << "\n";
+  cout << a[1];                           // print y
+  cout << "\n";
+  c[0]="H";
   cout << c;
 }
