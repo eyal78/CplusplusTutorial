@@ -19,5 +19,7 @@ int main()
   cout << tan(60);
   cout << "\n";   
   cout << floor(20.23);    //print 20
+  cout << "\n";
+  cout << pow(2, 3);       // print 8(=2^3)
 }
 
