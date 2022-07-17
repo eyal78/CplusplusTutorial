@@ -17,5 +17,7 @@ int main()
   cout << sin(30);
   cout << "\n";
   cout << tan(60);
+  cout << "\n";   
+  cout << floor(20.23);    //print 20
 }
 
