@@ -5,4 +5,5 @@
 3. Math.
 4. if-else.
 5. loops
-6. Arrays
+6. Arrays[]-One-dimensional array.
+7. Arrays[][] - Two-dimensional array.
