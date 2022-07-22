@@ -7,3 +7,4 @@
 5. loops
 6. Arrays[]-One-dimensional array.
 7. Arrays[][] - Two-dimensional array.
+8. Functions
